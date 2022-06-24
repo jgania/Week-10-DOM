@@ -1,0 +1,10 @@
+h1 {
+    text-align: center;
+}
+
+#body {
+    background-image: url(https://img.freepik.com/free-vector/realistic-empty-supermarket-shopping-cart-isolated-white_53562-6809.jpg);
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-size: cover;
+}  
